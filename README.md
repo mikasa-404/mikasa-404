@@ -2,7 +2,7 @@
 # <p align="center">I'm Priya Jha  </p>
 🔭 Pre-final year postgrad student at IIT (ISM) Dhanbad pursuing M.Sc. Mathematics and computing. \
 💻 C++ | HTML | CSS | JS | React | DSA. \
-🌱 I’m currently learning backend Development and exploring blockchain technologies. \
+🌱 I’m currently learning backend Development and exploring blockchain technologies. 
 
 <hr>
 
