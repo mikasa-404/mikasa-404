@@ -1,7 +1,7 @@
 ## <p align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 # <p align="center">I'm Priya Jha  </p>
-🔭 Pre-final year postgrad student at IIT (ISM) Dhanbad pursuing M.Sc. Mathematics and computing. \
-💻 C++ | HTML | CSS | JS | React | DSA. \
+🔭 Final year postgrad student at IIT (ISM) Dhanbad pursuing M.Sc. Mathematics and computing. \
+💻 C++ DSA | HTML | CSS | JS | React | Redux| NodeJS . \
 🌱 I’m currently learning backend Development and exploring blockchain technologies. 
 
 <hr>
